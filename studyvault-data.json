@@ -1,34 +1,6 @@
 {
   "subjects": [
     {
-      "id": "mrsvzax02jo7",
-      "name": "رياضيات",
-      "chaptersCount": 12,
-      "lecPerCh": 8,
-      "color": "#7b5ef8",
-      "instructor": "د. أحمد العمري",
-      "currentChapter": 1,
-      "lectureProgress": {},
-      "chapterLectures": {},
-      "materials": [
-        {
-          "id": "m1",
-          "type": "note",
-          "name": "ملزمة الفصل الأول",
-          "totalPages": 120,
-          "currentPage": 45
-        },
-        {
-          "id": "m2",
-          "type": "book",
-          "name": "كتاب المنهج الرئيسي",
-          "totalPages": 340,
-          "currentPage": 80
-        }
-      ],
-      "notes": ""
-    },
-    {
       "id": "mrsvzax0nabq",
       "name": "فيزياء",
       "chaptersCount": 10,
@@ -62,5 +34,5 @@
     "د. نورة الشمري",
     "أ. خالد الدوسري"
   ],
-  "updatedAt": 1784532344303
+  "updatedAt": 1784532447724
 }
