@@ -1463,7 +1463,12 @@ function openSyncModal() {
 function readSyncFieldsIntoConfig() {
   githubToken = document.getElementById('sync-token').value.trim();
   let repoVal = document.getElementById('sync-repo').value.trim();
-  repoVal = repoVal.replace(/^https?:\/\/github\.com\//i,'').replace(/\.git$/i,'').replace(/^\/+|\/+$/g,'');
+  const pagesMatch = repoVal.match(/^https?:\/\/([\w-]+)\.github\.io\/([\w.-]+)\/?/i);
+  if (pagesMatch) {
+    repoVal = `${pagesMatch[1]}/${pagesMatch[2]}`;
+  } else {
+    repoVal = repoVal.replace(/^https?:\/\/github\.com\//i,'').replace(/\.git$/i,'').replace(/^\/+|\/+$/g,'');
+  }
   SYNC.repo          = repoVal;
   SYNC.path          = document.getElementById('sync-path').value.trim().replace(/^\/+/,'') || 'studyvault-data.json';
   SYNC.branch        = document.getElementById('sync-branch').value.trim() || 'main';
