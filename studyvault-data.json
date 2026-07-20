@@ -6,9 +6,11 @@
       "chaptersCount": 9,
       "lecPerCh": 20,
       "color": "#f5605a",
-      "instructor": "د. سارة الحربي",
+      "instructor": "مؤيد سليم",
       "currentChapter": 1,
-      "lectureProgress": {},
+      "lectureProgress": {
+        "1": 8
+      },
       "chapterLectures": {
         "1": 20
       },
@@ -18,23 +20,35 @@
     {
       "id": "mrsvzax0lwca",
       "name": "كيمياء",
-      "chaptersCount": 9,
-      "lecPerCh": 7,
+      "chaptersCount": 8,
+      "lecPerCh": 20,
       "color": "#38d9f5",
-      "instructor": "",
+      "instructor": "حسين الهاشمي",
       "currentChapter": 1,
-      "lectureProgress": {},
-      "chapterLectures": {},
+      "lectureProgress": {
+        "1": 14
+      },
+      "chapterLectures": {
+        "1": 36,
+        "2": 35,
+        "3": 31,
+        "4": 33,
+        "5": 32,
+        "6": 31,
+        "7": 32,
+        "8": 30,
+        "9": 33
+      },
       "materials": [],
       "notes": ""
     },
     {
       "id": "mrswlthavqcf",
       "name": "احياء",
-      "chaptersCount": 8,
-      "lecPerCh": 8,
+      "chaptersCount": 5,
+      "lecPerCh": 20,
       "color": "#a0f54e",
-      "instructor": "",
+      "instructor": "مصطفى الحافظ",
       "currentChapter": 1,
       "lectureProgress": {},
       "chapterLectures": {},
@@ -73,7 +87,7 @@
       "chaptersCount": 6,
       "lecPerCh": 20,
       "color": "#f578c8",
-      "instructor": "",
+      "instructor": "حيدر عبد الائمه",
       "currentChapter": 1,
       "lectureProgress": {},
       "chapterLectures": {},
@@ -86,7 +100,7 @@
       "chaptersCount": 8,
       "lecPerCh": 8,
       "color": "#a0f54e",
-      "instructor": "",
+      "instructor": "حمزه الجابري",
       "currentChapter": 1,
       "lectureProgress": {},
       "chapterLectures": {},
@@ -95,11 +109,11 @@
     }
   ],
   "instructors": [
-    "د. أحمد العمري",
-    "د. سارة الحربي",
-    "أ. محمد القحطاني",
-    "د. نورة الشمري",
-    "أ. خالد الدوسري"
+    "حيدر عبد الائمه",
+    "حمزه الجابري",
+    "مؤيد سليم",
+    "مصطفى الحافظ",
+    "حسين الهاشمي"
   ],
-  "updatedAt": 1784532690684
+  "updatedAt": 1784533020757
 }
