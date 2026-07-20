@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "id": "mrsvzax02jo7",
+      "id": "mrsw0w1lcwx7",
       "name": "رياضيات",
       "chaptersCount": 12,
       "lecPerCh": 8,
@@ -29,7 +29,7 @@
       "notes": ""
     },
     {
-      "id": "mrsvzax0nabq",
+      "id": "mrsw0w1lqen1",
       "name": "فيزياء",
       "chaptersCount": 10,
       "lecPerCh": 6,
@@ -42,7 +42,7 @@
       "notes": ""
     },
     {
-      "id": "mrsvzax0cd5o",
+      "id": "mrsw0w1li0d6",
       "name": "برمجة",
       "chaptersCount": 8,
       "lecPerCh": 10,
@@ -55,7 +55,7 @@
       "notes": ""
     },
     {
-      "id": "mrsvzax0lwca",
+      "id": "mrsw0w1lf6l4",
       "name": "كيمياء",
       "chaptersCount": 9,
       "lecPerCh": 7,
@@ -75,5 +75,5 @@
     "د. نورة الشمري",
     "أ. خالد الدوسري"
   ],
-  "updatedAt": 1784532058716
+  "updatedAt": 1784532130023
 }
