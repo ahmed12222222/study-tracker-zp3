@@ -1,0 +1,79 @@
+{
+  "subjects": [
+    {
+      "id": "mrsvzax02jo7",
+      "name": "رياضيات",
+      "chaptersCount": 12,
+      "lecPerCh": 8,
+      "color": "#7b5ef8",
+      "instructor": "د. أحمد العمري",
+      "currentChapter": 1,
+      "lectureProgress": {},
+      "chapterLectures": {},
+      "materials": [
+        {
+          "id": "m1",
+          "type": "note",
+          "name": "ملزمة الفصل الأول",
+          "totalPages": 120,
+          "currentPage": 45
+        },
+        {
+          "id": "m2",
+          "type": "book",
+          "name": "كتاب المنهج الرئيسي",
+          "totalPages": 340,
+          "currentPage": 80
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "id": "mrsvzax0nabq",
+      "name": "فيزياء",
+      "chaptersCount": 10,
+      "lecPerCh": 6,
+      "color": "#38d9f5",
+      "instructor": "د. سارة الحربي",
+      "currentChapter": 1,
+      "lectureProgress": {},
+      "chapterLectures": {},
+      "materials": [],
+      "notes": ""
+    },
+    {
+      "id": "mrsvzax0cd5o",
+      "name": "برمجة",
+      "chaptersCount": 8,
+      "lecPerCh": 10,
+      "color": "#3ef5aa",
+      "instructor": "أ. محمد القحطاني",
+      "currentChapter": 1,
+      "lectureProgress": {},
+      "chapterLectures": {},
+      "materials": [],
+      "notes": ""
+    },
+    {
+      "id": "mrsvzax0lwca",
+      "name": "كيمياء",
+      "chaptersCount": 9,
+      "lecPerCh": 7,
+      "color": "#f5c842",
+      "instructor": "",
+      "currentChapter": 1,
+      "lectureProgress": {},
+      "chapterLectures": {},
+      "materials": [],
+      "notes": ""
+    }
+  ],
+  "instructors": [
+    "د. أحمد العمري",
+    "د. سارة الحربي",
+    "أ. محمد القحطاني",
+    "د. نورة الشمري",
+    "أ. خالد الدوسري"
+  ],
+  "updatedAt": 1784532058716
+}
