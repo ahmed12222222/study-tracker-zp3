@@ -1,7 +1,7 @@
 {
   "subjects": [
     {
-      "id": "mrsw0w1lcwx7",
+      "id": "mrsvzax02jo7",
       "name": "رياضيات",
       "chaptersCount": 12,
       "lecPerCh": 8,
@@ -29,7 +29,7 @@
       "notes": ""
     },
     {
-      "id": "mrsw0w1lqen1",
+      "id": "mrsvzax0nabq",
       "name": "فيزياء",
       "chaptersCount": 10,
       "lecPerCh": 6,
@@ -42,20 +42,7 @@
       "notes": ""
     },
     {
-      "id": "mrsw0w1li0d6",
-      "name": "برمجة",
-      "chaptersCount": 8,
-      "lecPerCh": 10,
-      "color": "#3ef5aa",
-      "instructor": "أ. محمد القحطاني",
-      "currentChapter": 1,
-      "lectureProgress": {},
-      "chapterLectures": {},
-      "materials": [],
-      "notes": ""
-    },
-    {
-      "id": "mrsw0w1lf6l4",
+      "id": "mrsvzax0lwca",
       "name": "كيمياء",
       "chaptersCount": 9,
       "lecPerCh": 7,
@@ -75,5 +62,5 @@
     "د. نورة الشمري",
     "أ. خالد الدوسري"
   ],
-  "updatedAt": 1784532130023
+  "updatedAt": 1784532192167
 }
