@@ -50,9 +50,19 @@
       "color": "#a0f54e",
       "instructor": "مصطفى الحافظ",
       "currentChapter": 1,
-      "lectureProgress": {},
+      "lectureProgress": {
+        "1": 9
+      },
       "chapterLectures": {},
-      "materials": [],
+      "materials": [
+        {
+          "id": "mruho0wmzxev",
+          "type": "note",
+          "name": "احياء جزء اول",
+          "totalPages": 167,
+          "currentPage": 26
+        }
+      ],
       "notes": ""
     },
     {
@@ -115,5 +125,5 @@
     "مصطفى الحافظ",
     "حسين الهاشمي"
   ],
-  "updatedAt": 1784539398371
+  "updatedAt": 1784628405684
 }
