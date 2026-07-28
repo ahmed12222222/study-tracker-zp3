@@ -51,7 +51,7 @@
       "instructor": "مصطفى الحافظ",
       "currentChapter": 1,
       "lectureProgress": {
-        "1": 9
+        "1": 11
       },
       "chapterLectures": {},
       "materials": [
@@ -125,5 +125,5 @@
     "مصطفى الحافظ",
     "حسين الهاشمي"
   ],
-  "updatedAt": 1785249646559
+  "updatedAt": 1785282441782
 }
