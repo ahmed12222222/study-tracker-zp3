@@ -9,12 +9,20 @@
       "instructor": "مؤيد سليم",
       "currentChapter": 1,
       "lectureProgress": {
-        "1": 8
+        "1": 9
       },
       "chapterLectures": {
-        "1": 20
+        "1": 32
       },
-      "materials": [],
+      "materials": [
+        {
+          "id": "ms7l5yrx4nlx",
+          "type": "note",
+          "name": "جزء اول",
+          "totalPages": 221,
+          "currentPage": 16
+        }
+      ],
       "notes": ""
     },
     {
@@ -125,5 +133,5 @@
     "مصطفى الحافظ",
     "حسين الهاشمي"
   ],
-  "updatedAt": 1785282441782
+  "updatedAt": 1785484342576
 }
