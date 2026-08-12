@@ -9,7 +9,7 @@
       "instructor": "مؤيد سليم",
       "currentChapter": 1,
       "lectureProgress": {
-        "1": 9
+        "1": 13
       },
       "chapterLectures": {
         "1": 32
@@ -59,7 +59,7 @@
       "instructor": "مصطفى الحافظ",
       "currentChapter": 1,
       "lectureProgress": {
-        "1": 11
+        "1": 14
       },
       "chapterLectures": {},
       "materials": [
@@ -133,5 +133,63 @@
     "مصطفى الحافظ",
     "حسين الهاشمي"
   ],
-  "updatedAt": 1785484342576
+  "updatedAt": 1786511937956,
+  "studyLog": [
+    {
+      "id": "mspn1ss1w68q12",
+      "date": "2026-08-12",
+      "subjectId": "mrswlthavqcf",
+      "chapterNum": 1,
+      "lectureNum": 12
+    },
+    {
+      "id": "mspn1ss1iwwj13",
+      "date": "2026-08-12",
+      "subjectId": "mrswlthavqcf",
+      "chapterNum": 1,
+      "lectureNum": 13
+    },
+    {
+      "id": "mspn1ss1zn8v14",
+      "date": "2026-08-12",
+      "subjectId": "mrswlthavqcf",
+      "chapterNum": 1,
+      "lectureNum": 14
+    },
+    {
+      "id": "mspn2csr1ck510",
+      "date": "2026-08-12",
+      "subjectId": "mrsvzax0nabq",
+      "chapterNum": 1,
+      "lectureNum": 10
+    },
+    {
+      "id": "mspn2csrl6y111",
+      "date": "2026-08-12",
+      "subjectId": "mrsvzax0nabq",
+      "chapterNum": 1,
+      "lectureNum": 11
+    },
+    {
+      "id": "mspn2csrf8j412",
+      "date": "2026-08-12",
+      "subjectId": "mrsvzax0nabq",
+      "chapterNum": 1,
+      "lectureNum": 12
+    },
+    {
+      "id": "mspn2csrisqf13",
+      "date": "2026-08-12",
+      "subjectId": "mrsvzax0nabq",
+      "chapterNum": 1,
+      "lectureNum": 13
+    },
+    {
+      "id": "mspn2csrfdeo14",
+      "date": "2026-08-12",
+      "subjectId": "mrsvzax0nabq",
+      "chapterNum": 1,
+      "lectureNum": 14
+    }
+  ]
 }
